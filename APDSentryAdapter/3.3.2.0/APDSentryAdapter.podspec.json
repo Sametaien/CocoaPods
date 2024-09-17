@@ -27,7 +27,7 @@
   ],
   "dependencies": {
     "Sentry": [
-      "= 8.29.0"
+      "= 8.33.0"
     ],
     "Appodeal": [
       "3.3.2"
